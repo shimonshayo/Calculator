@@ -1,0 +1,39 @@
+#allTheCalculator{
+    border: black solid 2px;
+    width: 335px;
+    height: 400px;
+    margin: 10%;
+    padding: 5px;
+    text-align: center;
+
+    background-color: rgb(194, 162, 163);
+}
+
+#arithmetic{
+    width: 70px;
+    height: 70px;
+    font-size: 30px;
+    color: rgb(10, 10, 146);
+    background-color: rgb(175, 155, 155);
+    margin: 4px;
+
+}
+#numbers{
+    font-size: 30px;
+    color: rgb(79, 79, 104);
+    width: 70px;
+    height: 70px;
+    margin: 4px;
+    
+    background-color: thistle;
+}
+
+#screen{
+    border: black solid 1px;
+    width: 92%;
+    height: 40px;
+    background-color: grey;
+    margin: 4px;
+    font-size: 40px;
+
+} 
